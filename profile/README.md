@@ -1,7 +1,7 @@
 # Decentralized Law
 
-This is the official website for the Decentralized Law project.
+This is the official github for the Decentralized Law project.
 
 ## About
 
-Decentralized Law is a decentralized organization that aims to promote the decentralized law and equality in the world.
+Decentralized Law is an organization that aims to promote the decentralized law and an equal division of rights and duties in the world.
